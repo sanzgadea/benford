@@ -1,2 +1,2 @@
-# benford
-Benford's Law compared with various data sets.
+# Benford
+Benford's Law compared with data from Keppler Space Telescope.
